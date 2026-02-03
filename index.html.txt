@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Devla Rathlavath | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Devla Rathlavath</h1>
+        <p>B.Tech CSE Graduate | Entry-Level Java & Frontend Developer</p>
+
+        <h2>About Me</h2>
+        <p>
+            I am a Computer Science graduate with basic knowledge of Java,
+            HTML, CSS, JavaScript, and SQL. I am interested in IT recruitment
+            and technology roles.
+        </p>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>Java</li>
+            <li>HTML & CSS</li>
+            <li>JavaScript (Basics)</li>
+            <li>SQL</li>
+        </ul>
+
+        <h2>Project</h2>
+        <p>
+            Fake Logo Detection – A web application to identify fake product logos
+            using basic verification logic.
+        </p>
+
+        <h2>Contact</h2>
+        <p>Email: rathlavathdevanaik3@gmail.com</p>
+        <p>Phone: 9059219532</p>
+    </div>
+
+</body>
+</html>
